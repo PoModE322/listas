@@ -1,5 +1,5 @@
 #EXTM3U #EXT-X-VERSION:3 #EXT-X-ALLOW-CACHE:NO
 
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="main_audio",CODECS="mp4a.40.5",LANGUAGE="spa",NAME="Track 2 spa",DEFAULT=NO,URI="https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD-mp4a_145200_spa=20000.m3u8" 
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="main_audio",URL="https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD-mp4a_145200_spa=20000.m3u8" 
 
-#EXT-X-STREAM-INF:BANDWIDTH=1391346,RESOLUTION=1280x720,CODECS="avc1.4d001f,mp4a.40.5",AUDIO="main_audio" https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD-avc1_379968=10005.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1391346,RESOLUTION=1280x720,AUDIO="main_audio" /live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD-avc1_379968=10005.m3u8
